@@ -1,0 +1,110 @@
+15:21:10.197 Navigated to https://www.statefarm.com/
+15:21:10.476 StateFarmCommon.js:1 A parser-blocking, cross site (i.e. different eTLD+1) script, https://static1.st8fm.com/en_US/b2c_dvts/common/js/lib/StateFarmCommon.js?seed=AABuAOp4AQAApkeIbgM3k71K-O82Vppn8Yz9t-_ylJ_0sZSW0FtVxvRtqpfh&J5odCIZGx--z=q, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+(anonymous) @ StateFarmCommon.js:1
+(anonymous) @ StateFarmCommon.js:1
+15:21:10.476 StateFarmCommon.js:1 A parser-blocking, cross site (i.e. different eTLD+1) script, https://static1.st8fm.com/en_US/b2c_dvts/common/js/lib/StateFarmCommon.js?seed=AABuAOp4AQAApkeIbgM3k71K-O82Vppn8Yz9t-_ylJ_0sZSW0FtVxvRtqpfh&J5odCIZGx--z=q, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+(anonymous) @ StateFarmCommon.js:1
+(anonymous) @ StateFarmCommon.js:1
+15:21:10.520 StateFarmCommon.js?seed=AABuAOp4AQAApkeIbgM3k71K-O82Vppn8Yz9t-_ylJ_0sZSW0FtVxvRtqpfh&J5odCIZGx--z=q:1 
+15:21:10.949 util.min.js:1 {phoneNumberInvalid: "Incorrect format. Enter a valid 10-digit phone number.", phoneNumberInvalidBlank: "Empty field. Enter a 10-digit phone number.", dobInvalid: "Incorrect format. Enter a valid date of birth in MM/DD/YYYY format.", dobInvalidBlank: "Empty field. Enter a date of birth in MM/DD/YYYY format.", policyNumberInvalid: "Incorrect format. Enter a policy number in the same format as it appears on your bill or ID card.", …}
+15:21:11.525 (index):1 Tracking Prevention blocked access to storage for https://4331292.fls.doubleclick.net/activityi;src=4331292;type=quoti942;cat=state977;ord=1419034444681.444?.
+15:21:11.628 (index):1 Tracking Prevention blocked access to storage for https://4331292.fls.doubleclick.net/activityi;dc_pre=CNn21uulivACFUPuuwgdb90Pxg;src=4331292;type=quoti942;cat=state977;ord=1419034444681.444?.
+15:21:11.675 (index):1 Tracking Prevention blocked access to storage for https://4331292.fls.doubleclick.net/activityi;dc_pre=CNn21uulivACFUPuuwgdb90Pxg;src=4331292;type=quoti942;cat=state977;ord=1419034444681.444?.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.046 Tracking Prevention blocked access to storage for <URL>.
+15:21:12.029 VM9 fbevents.js:24 Uncaught DOMException: Failed to read the 'sessionStorage' property from 'Window': Access is denied for this document.
+    at https://connect.facebook.net/en_US/fbevents.js:24:2206
+    at https://connect.facebook.net/en_US/fbevents.js:24:3896
+    at Object.SignalsFBEvents.plugins.iwlbootstrapper (https://connect.facebook.net/en_US/fbevents.js:24:3916)
+    at Function.f.__fbeventsModules.f.getFbeventsModules (https://connect.facebook.net/en_US/fbevents.js:23:2534)
+    at https://connect.facebook.net/en_US/fbevents.js:24:3940
+    at https://connect.facebook.net/en_US/fbevents.js:24:4174
+    at https://connect.facebook.net/en_US/fbevents.js:24:4178
+(anonymous) @ VM9 fbevents.js:24
+(anonymous) @ VM9 fbevents.js:24
+(anonymous) @ VM9 fbevents.js:24
+f.__fbeventsModules.f.getFbeventsModules @ VM9 fbevents.js:23
+(anonymous) @ VM9 fbevents.js:24
+(anonymous) @ VM9 fbevents.js:24
+(anonymous) @ VM9 fbevents.js:24
+15:21:12.513 privacy.min.js:1 inside
+15:21:14.375 narcdEvent.js:22 Entering method setUnCommonRequestAttributes...
+15:21:14.375 narcdEvent.js:22 requestData : [object Object]
+15:21:14.375 narcdEvent.js:22 sessionIdentifier : 
+15:21:14.375 narcdEvent.js:22 eventName : load
+15:21:14.694 narcdEvent.js:22 Uncaught TypeError: Cannot read property 'length' of null
+    at isNullOrUndefinedEmpty (narcdEvent.js:22)
+    at processUiChangeElement (narcdEvent.js:22)
+    at Object.<anonymous> (narcdEvent.js:22)
+    at Function.each (narcdEvent.js:2)
+    at processBrowserEventResponse (narcdEvent.js:22)
+    at Object.<anonymous> (narcdEvent.js:22)
+    at c (narcdEvent.js:2)
+    at Object.fireWith [as resolveWith] (narcdEvent.js:2)
+    at l (narcdEvent.js:2)
+    at XMLHttpRequest.<anonymous> (narcdEvent.js:2)
+isNullOrUndefinedEmpty @ narcdEvent.js:22
+processUiChangeElement @ narcdEvent.js:22
+(anonymous) @ narcdEvent.js:22
+each @ narcdEvent.js:2
+processBrowserEventResponse @ narcdEvent.js:22
+(anonymous) @ narcdEvent.js:22
+c @ narcdEvent.js:2
+fireWith @ narcdEvent.js:2
+l @ narcdEvent.js:2
+(anonymous) @ narcdEvent.js:2
+load (async)
+send @ narcdEvent.js:2
+ajax @ narcdEvent.js:2
+sendEvent @ narcdEvent.js:22
+prepareRequestData @ narcdEvent.js:22
+initEvent @ narcdEvent.js:22
+(anonymous) @ narcdEvent.js:22
+setTimeout (async)
+(anonymous) @ narcdEvent.js:22
+15:21:20.506 Navigated to https://www.statefarm.com/finances/education-savings-plans
+15:21:20.857 StateFarmCommon.js:1 A parser-blocking, cross site (i.e. different eTLD+1) script, https://static1.st8fm.com/en_US/b2c_dvts/common/js/lib/StateFarmCommon.js?seed=AABuAOp4AQAApkeIbgM3k71K-O82Vppn8Yz9t-_ylJ_0sZSW0FtVxvRtqpfh&J5odCIZGx--z=q, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+(anonymous) @ StateFarmCommon.js:1
+(anonymous) @ StateFarmCommon.js:1
+15:21:20.857 StateFarmCommon.js:1 A parser-blocking, cross site (i.e. different eTLD+1) script, https://static1.st8fm.com/en_US/b2c_dvts/common/js/lib/StateFarmCommon.js?seed=AABuAOp4AQAApkeIbgM3k71K-O82Vppn8Yz9t-_ylJ_0sZSW0FtVxvRtqpfh&J5odCIZGx--z=q, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+(anonymous) @ StateFarmCommon.js:1
+(anonymous) @ StateFarmCommon.js:1
+15:21:20.898 StateFarmCommon.js?seed=AABuAOp4AQAApkeIbgM3k71K-O82Vppn8Yz9t-_ylJ_0sZSW0FtVxvRtqpfh&J5odCIZGx--z=q:1 
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.552 Tracking Prevention blocked access to storage for <URL>.
+15:21:21.463 util.min.js:1 {phoneNumberInvalid: "Incorrect format. Enter a valid 10-digit phone number.", phoneNumberInvalidBlank: "Empty field. Enter a 10-digit phone number.", dobInvalid: "Incorrect format. Enter a valid date of birth in MM/DD/YYYY format.", dobInvalidBlank: "Empty field. Enter a date of birth in MM/DD/YYYY format.", policyNumberInvalid: "Incorrect format. Enter a policy number in the same format as it appears on your bill or ID card.", …}
+15:21:22.469 privacy.min.js:1 inside
+15:22:00.327 savings04:1 Failed to load resource: the server responded with a status of 400 ()
+

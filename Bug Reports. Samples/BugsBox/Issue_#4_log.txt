@@ -1,0 +1,375 @@
+16:36:03.059 Navigated to https://www.statefarm.com/
+16:36:03.457 StateFarmCommon.js:1 A parser-blocking, cross site (i.e. different eTLD+1) script, https://static1.st8fm.com/en_US/b2c_dvts/common/js/lib/StateFarmCommon.js?seed=AMDTUup4AQAAeNEAum1GZi_kSo77dZ5EDSg9mYmdx7Ezdy9HIpFNmniQnukU&J5odCIZGx--z=q, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+(anonymous) @ StateFarmCommon.js:1
+(anonymous) @ StateFarmCommon.js:1
+16:36:03.458 StateFarmCommon.js:1 A parser-blocking, cross site (i.e. different eTLD+1) script, https://static1.st8fm.com/en_US/b2c_dvts/common/js/lib/StateFarmCommon.js?seed=AMDTUup4AQAAeNEAum1GZi_kSo77dZ5EDSg9mYmdx7Ezdy9HIpFNmniQnukU&J5odCIZGx--z=q, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+(anonymous) @ StateFarmCommon.js:1
+(anonymous) @ StateFarmCommon.js:1
+16:36:03.498 StateFarmCommon.js?seed=AMDTUup4AQAAeNEAum1GZi_kSo77dZ5EDSg9mYmdx7Ezdy9HIpFNmniQnukU&J5odCIZGx--z=q:1 
+16:36:05.066 util.min.js:1 {phoneNumberInvalid: "Incorrect format. Enter a valid 10-digit phone number.", phoneNumberInvalidBlank: "Empty field. Enter a 10-digit phone number.", dobInvalid: "Incorrect format. Enter a valid date of birth in MM/DD/YYYY format.", dobInvalidBlank: "Empty field. Enter a date of birth in MM/DD/YYYY format.", policyNumberInvalid: "Incorrect format. Enter a policy number in the same format as it appears on your bill or ID card.", …}
+16:36:05.209 (index):1 Tracking Prevention blocked access to storage for https://4331292.fls.doubleclick.net/activityi;src=4331292;type=quoti942;cat=state977;ord=9570098405544.072?.
+16:36:05.275 (index):1 Tracking Prevention blocked access to storage for https://4331292.fls.doubleclick.net/activityi;dc_pre=CKrJs8q2ivACFcja3god7HMHOg;src=4331292;type=quoti942;cat=state977;ord=9570098405544.072?.
+16:36:05.319 (index):1 Tracking Prevention blocked access to storage for https://4331292.fls.doubleclick.net/activityi;dc_pre=CKrJs8q2ivACFcja3god7HMHOg;src=4331292;type=quoti942;cat=state977;ord=9570098405544.072?.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.531 Tracking Prevention blocked access to storage for <URL>.
+16:36:05.535 VM9 fbevents.js:24 Uncaught DOMException: Failed to read the 'sessionStorage' property from 'Window': Access is denied for this document.
+    at https://connect.facebook.net/en_US/fbevents.js:24:2206
+    at https://connect.facebook.net/en_US/fbevents.js:24:3896
+    at Object.SignalsFBEvents.plugins.iwlbootstrapper (https://connect.facebook.net/en_US/fbevents.js:24:3916)
+    at Function.f.__fbeventsModules.f.getFbeventsModules (https://connect.facebook.net/en_US/fbevents.js:23:2534)
+    at https://connect.facebook.net/en_US/fbevents.js:24:3940
+    at https://connect.facebook.net/en_US/fbevents.js:24:4174
+    at https://connect.facebook.net/en_US/fbevents.js:24:4178
+(anonymous) @ VM9 fbevents.js:24
+(anonymous) @ VM9 fbevents.js:24
+(anonymous) @ VM9 fbevents.js:24
+f.__fbeventsModules.f.getFbeventsModules @ VM9 fbevents.js:23
+(anonymous) @ VM9 fbevents.js:24
+(anonymous) @ VM9 fbevents.js:24
+(anonymous) @ VM9 fbevents.js:24
+16:36:06.205 privacy.min.js:1 inside
+16:36:08.200 narcdEvent.js:22 Entering method setUnCommonRequestAttributes...
+16:36:08.200 narcdEvent.js:22 requestData : [object Object]
+16:36:08.200 narcdEvent.js:22 sessionIdentifier : 
+16:36:08.200 narcdEvent.js:22 eventName : load
+16:36:08.531 narcdEvent.js:22 Uncaught TypeError: Cannot read property 'length' of null
+    at isNullOrUndefinedEmpty (narcdEvent.js:22)
+    at processUiChangeElement (narcdEvent.js:22)
+    at Object.<anonymous> (narcdEvent.js:22)
+    at Function.each (narcdEvent.js:2)
+    at processBrowserEventResponse (narcdEvent.js:22)
+    at Object.<anonymous> (narcdEvent.js:22)
+    at c (narcdEvent.js:2)
+    at Object.fireWith [as resolveWith] (narcdEvent.js:2)
+    at l (narcdEvent.js:2)
+    at XMLHttpRequest.<anonymous> (narcdEvent.js:2)
+isNullOrUndefinedEmpty @ narcdEvent.js:22
+processUiChangeElement @ narcdEvent.js:22
+(anonymous) @ narcdEvent.js:22
+each @ narcdEvent.js:2
+processBrowserEventResponse @ narcdEvent.js:22
+(anonymous) @ narcdEvent.js:22
+c @ narcdEvent.js:2
+fireWith @ narcdEvent.js:2
+l @ narcdEvent.js:2
+(anonymous) @ narcdEvent.js:2
+load (async)
+send @ narcdEvent.js:2
+ajax @ narcdEvent.js:2
+sendEvent @ narcdEvent.js:22
+prepareRequestData @ narcdEvent.js:22
+initEvent @ narcdEvent.js:22
+(anonymous) @ narcdEvent.js:22
+setTimeout (async)
+(anonymous) @ narcdEvent.js:22
+16:36:11.079 Navigated to https://www.statefarm.com/agent/?zipCode=83544
+16:36:11.357 StateFarmCommon.js:1 A parser-blocking, cross site (i.e. different eTLD+1) script, https://static1.st8fm.com/en_US/b2c_dvts/common/js/lib/StateFarmCommon.js?seed=AMDTUup4AQAAeNEAum1GZi_kSo77dZ5EDSg9mYmdx7Ezdy9HIpFNmniQnukU&J5odCIZGx--z=q, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+(anonymous) @ StateFarmCommon.js:1
+(anonymous) @ StateFarmCommon.js:1
+16:36:11.358 StateFarmCommon.js:1 A parser-blocking, cross site (i.e. different eTLD+1) script, https://static1.st8fm.com/en_US/b2c_dvts/common/js/lib/StateFarmCommon.js?seed=AMDTUup4AQAAeNEAum1GZi_kSo77dZ5EDSg9mYmdx7Ezdy9HIpFNmniQnukU&J5odCIZGx--z=q, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+(anonymous) @ StateFarmCommon.js:1
+(anonymous) @ StateFarmCommon.js:1
+16:36:11.399 StateFarmCommon.js?seed=AMDTUup4AQAAeNEAum1GZi_kSo77dZ5EDSg9mYmdx7Ezdy9HIpFNmniQnukU&J5odCIZGx--z=q:1 
+16:36:11.466 jquery-migrate.min.js:2 JQMIGRATE: Migrate is installed, version 3.0.0
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:13.083 Tracking Prevention blocked access to storage for <URL>?.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.927 Tracking Prevention blocked access to storage for <URL>.
+16:36:11.932 fbevents.js:24 Uncaught DOMException: Failed to read the 'sessionStorage' property from 'Window': Access is denied for this document.
+    at https://connect.facebook.net/en_US/fbevents.js:24:2206
+    at https://connect.facebook.net/en_US/fbevents.js:24:3896
+    at Object.SignalsFBEvents.plugins.iwlbootstrapper (https://connect.facebook.net/en_US/fbevents.js:24:3916)
+    at Function.f.__fbeventsModules.f.getFbeventsModules (https://connect.facebook.net/en_US/fbevents.js:23:2534)
+    at https://connect.facebook.net/en_US/fbevents.js:24:3940
+    at https://connect.facebook.net/en_US/fbevents.js:24:4174
+    at https://connect.facebook.net/en_US/fbevents.js:24:4178
+(anonymous) @ fbevents.js:24
+(anonymous) @ fbevents.js:24
+(anonymous) @ fbevents.js:24
+f.__fbeventsModules.f.getFbeventsModules @ fbevents.js:23
+(anonymous) @ fbevents.js:24
+(anonymous) @ fbevents.js:24
+(anonymous) @ fbevents.js:24
+16:36:11.994 util.min.js:1 {phoneNumberInvalid: "Incorrect format. Enter a valid 10-digit phone number.", phoneNumberInvalidBlank: "Empty field. Enter a 10-digit phone number.", dobInvalid: "Incorrect format. Enter a valid date of birth in MM/DD/YYYY format.", dobInvalidBlank: "Empty field. Enter a date of birth in MM/DD/YYYY format.", policyNumberInvalid: "Incorrect format. Enter a policy number in the same format as it appears on your bill or ID card.", …}
+16:36:12.921 locator.min.js:1 undefined
+16:36:12.921 locator.min.js:1 undefined
+16:36:12.922 locator.min.js:1 undefined
+16:36:12.924 locator.min.js:1 undefined
+16:36:12.925 locator.min.js:1 undefined
+16:36:12.926 locator.min.js:1 undefined
+16:36:12.928 locator.min.js:1 undefined
+16:36:12.928 locator.min.js:1 undefined
+16:36:12.929 locator.min.js:1 undefined
+16:36:12.931 locator.min.js:1 undefined
+16:36:12.932 locator.min.js:1 undefined
+16:36:12.932 locator.min.js:1 undefined
+16:36:12.934 locator.min.js:1 undefined
+16:36:12.936 locator.min.js:1 undefined
+16:36:12.937 locator.min.js:1 undefined
+16:36:12.939 locator.min.js:1 undefined
+16:36:12.939 locator.min.js:1 undefined
+16:36:12.940 locator.min.js:1 undefined
+16:36:12.941 locator.min.js:1 undefined
+16:36:12.943 locator.min.js:1 undefined
+16:36:12.944 locator.min.js:1 undefined
+16:36:12.946 locator.min.js:1 undefined
+16:36:12.948 locator.min.js:1 undefined
+16:36:12.949 locator.min.js:1 undefined
+16:36:12.951 locator.min.js:1 undefined
+16:36:12.952 locator.min.js:1 undefined
+16:36:12.953 locator.min.js:1 undefined
+16:36:12.955 locator.min.js:1 undefined
+16:36:12.956 locator.min.js:1 undefined
+16:36:13.290 privacy.min.js:1 inside
+16:36:22.482 locator.min.js:1 undefined
+16:36:22.483 locator.min.js:1 undefined
+16:36:22.484 locator.min.js:1 undefined
+16:36:22.485 locator.min.js:1 undefined
+16:36:22.487 locator.min.js:1 undefined
+16:36:22.488 locator.min.js:1 undefined
+16:36:22.489 locator.min.js:1 undefined
+16:36:22.489 locator.min.js:1 undefined
+16:36:22.492 locator.min.js:1 undefined
+16:36:22.493 locator.min.js:1 undefined
+16:36:22.495 locator.min.js:1 undefined
+16:36:22.495 locator.min.js:1 undefined
+16:36:22.496 locator.min.js:1 undefined
+16:36:22.498 locator.min.js:1 undefined
+16:36:22.499 locator.min.js:1 undefined
+16:36:22.501 locator.min.js:1 undefined
+16:36:22.501 locator.min.js:1 undefined
+16:36:22.502 locator.min.js:1 undefined
+16:36:22.504 locator.min.js:1 undefined
+16:36:22.505 locator.min.js:1 undefined
+16:36:22.507 locator.min.js:1 undefined
+16:36:22.509 locator.min.js:1 undefined
+16:36:22.510 locator.min.js:1 undefined
+16:36:22.512 locator.min.js:1 undefined
+16:36:22.513 locator.min.js:1 undefined
+16:36:22.516 locator.min.js:1 undefined
+16:36:22.518 locator.min.js:1 undefined
+16:36:22.519 locator.min.js:1 undefined
+16:36:22.521 locator.min.js:1 undefined
+16:36:27.012 (index):19 GET https://acuityplatform.com/Adserver/pxl/48166699230834688? net::ERR_CONNECTION_RESET
